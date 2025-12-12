@@ -3,7 +3,7 @@
 
 
 ##
-Our \href[https://huggingface.co/spnandpure/lora-marathi/tree/main]{HuggingFace} repo contains LoRA adapter weights trained on a Marathi → English translation dataset.
+Our [HuggingFace repo](https://huggingface.co/spnandpure/lora-marathi/tree/main) contains LoRA adapter weights trained on a Marathi → English translation dataset.
 To use this model, load the base model and then apply this LoRA adapter.
 
 ```
