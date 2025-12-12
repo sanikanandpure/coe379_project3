@@ -1,8 +1,10 @@
 # COE Project 3
 # Authors: Sanika Nandpure and Melissa Huang
 
-This repository contains **LoRA adapter weights** trained on a Marathi → English translation dataset.  
-To use this model, load your **base model** (e.g., Llama-3, Mistral, etc.) and then apply this LoRA adapter.
+
+##
+Our \href[https://huggingface.co/spnandpure/lora-marathi/tree/main]{HuggingFace} repo contains LoRA adapter weights trained on a Marathi → English translation dataset.
+To use this model, load the base model and then apply this LoRA adapter.
 
 ```
 !pip install transformers peft accelerate
