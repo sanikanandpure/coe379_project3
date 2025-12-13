@@ -1,4 +1,4 @@
-# COE Project 3
+# COE379L Project 3
 ## Authors: Sanika Nandpure and Melissa Huang
 
 ## Summary
