@@ -7,6 +7,8 @@ This is our final project submission for COE 379L. To improve Marathi-to-English
 Our fine-tuning and evaluation pipeline is in: Fine_Tuning_and_Evaluation.ipynb.
 Our evaluation of the base model is in: Base_Model_Evaluation.ipynb.
 
+**NOTE**: Certain outputs in our ipynb files may not be viewable due to use of ipywidgets (to track dataset loading progress, model training progress, etc.). To view the complete files with correct outputs, please open them in Colab.
+
 ## Written Report
 Our full written report can be found [here](https://docs.google.com/document/d/1Ks0Jph0KU8-saNxxxvcUEt2WSUn0rYKYtiEF8X43dD8/edit?usp=sharing). 
 
