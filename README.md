@@ -2,7 +2,7 @@
 ## Authors: Sanika Nandpure and Melissa Huang
 
 ## Summary
-This is our final project for COE 379L. To improve Marathi-to-English translation quality, we employed Supervised Fine-Tuning with Low-Rank Adaptation (LoRA) on the Microsoft Phi-2 base model. We notice a significant improvement in translation ability after fine-tuning. We uploaded our LoRA adapter weights to HuggingFaceHub under the name ```spnandpure/lora-marathi```.
+This is our final project submission for COE 379L. To improve Marathi-to-English translation quality, we employed Supervised Fine-Tuning with Low-Rank Adaptation (LoRA) on the Microsoft Phi-2 base model. We notice a significant improvement in translation ability after fine-tuning. We uploaded our LoRA adapter weights to HuggingFaceHub under the name ```spnandpure/lora-marathi```.
 
 ## Written Report
 Our full written report can be found [here](https://docs.google.com/document/d/1Ks0Jph0KU8-saNxxxvcUEt2WSUn0rYKYtiEF8X43dD8/edit?usp=sharing). 
